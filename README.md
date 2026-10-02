@@ -22,3 +22,6 @@ A responsive task management web application built with HTML, CSS and JavaScript
 ## Author
 
 Ishita Singh
+
+## Storage
+Tasks are stored in the browser using localStorage so they remain available after refreshing the page.
